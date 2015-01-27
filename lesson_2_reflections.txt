@@ -9,3 +9,8 @@ git log
 git checkout
 
 git commit
+
+git diff
+
+git diff --staged
+
