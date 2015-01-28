@@ -20,4 +20,14 @@ git branch _branch_name_
 
 git checkout _branch_name_
 
+git remote
+
+git remote add origin _link_to_remote_
+
+git remote -v
+
+git push origin _local_branch_
+
+
+
 
