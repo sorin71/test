@@ -14,3 +14,10 @@ git diff
 
 git diff --staged
 
+git branch
+
+git branch _branch_name_
+
+git checkout _branch_name_
+
+
